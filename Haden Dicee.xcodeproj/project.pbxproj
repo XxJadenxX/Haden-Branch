@@ -15,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		072382362149AA830046A7DA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		07684366214706CE00831745 /* Haden Dicee.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Haden Dicee.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		07684369214706CE00831745 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0768436B214706CE00831745 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -38,6 +39,7 @@
 		0768435D214706CE00831745 = {
 			isa = PBXGroup;
 			children = (
+				072382362149AA830046A7DA /* README.md */,
 				07684368214706CE00831745 /* Haden Dicee */,
 				07684367214706CE00831745 /* Products */,
 			);
